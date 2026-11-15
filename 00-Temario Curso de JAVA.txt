@@ -1,0 +1,177 @@
+
+***********************************************************************************************
+                                Programa completo del curso JAVA  ♨️
+***********************************************************************************************
+
+***********************************************
+     Nivel 1 – Fundamentos de Java
+***********************************************
+
+1.  Comentarios                           = ♨️
+2.  Lecturas                              = ♨️
+3.  Escrituras                            = ♨️
+4.  Estructura                            = ♨️     
+5.  Variables                             = ♨️
+6.  Constantes                            = ♨️
+7.  Tipos de datos primitivos             = ♨️
+8.  Tipos de datos de referencia          = ♨️
+9.  Operadores aritméticos                = ♨️         
+10. Operadores relacionales y lógicos     = ♨️
+11. Conversión de tipos de datos          = ♨️
+
+
+***********************************************
+   Nivel 2 – Estructuras de control
+***********************************************
+
+12. Condicional simple if.
+13. Condicional doble if-else.
+14. Condicional múltiple else-if.
+15. switch.
+16. Operador ternario.
+17. Ciclo for.
+18. Ciclo while.
+19. Ciclo do-while.
+20. break y continue.
+21. Ciclos anidados.
+
+***********************************************
+Nivel 3 – Ejercicios de lógica y algoritmos
+************************************************
+
+
+22. Operaciones matemáticas.
+23. Cálculo de áreas y perímetros.
+24. Promedios y calificaciones.
+25. Sueldos, descuentos e impuestos.
+26. Números pares e impares.
+27. Números primos.
+28. Factoriales.
+29. Series numéricas.
+30. Tablas de multiplicar.
+31. Validaciones.
+32. Menús interactivos.
+33. Contadores y acumuladores.
+
+***********************************************
+Nivel 4 – Métodos y funciones
+***********************************************
+
+34. Declaración de métodos.
+35. Métodos con parámetros.
+35. Métodos con retorno.
+39. Métodos void.
+40. Sobrecarga de métodos.
+41. Ámbito de variables.
+42. Recursividad.
+43. Paso de argumentos.
+44. Modularización del código.
+
+***********************************************
+Nivel 5 – Arreglos y estructuras de datos
+***********************************************
+
+45. Vectores.
+46. Recorrer arreglos.
+47. Buscar elementos.
+48. Ordenar arreglos.
+49. Arreglos bidimensionales.
+50. Matrices.
+51. Matrices transpuestas.
+52. Matrices diagonales.
+53. Pilas (Stack).
+54. Colas (Queue).
+55. Listas enlazadas.
+56. Algoritmos de búsqueda y ordenamiento.
+
+
+***************************************************
+Nivel 6 – Programación orientada a objetos (POO)
+***************************************************
+
+57. Introducción a POO.
+58. Clases y objetos.
+59. Atributos.
+60. Métodos.
+61. Constructores.
+62. Encapsulamiento.
+63. Getters y Setters.
+64. Herencia.
+65. Polimorfismo.
+66. Abstracción.
+67. Clases abstractas.
+68. Interfaces.
+69. Sobrecarga y sobrescritura.
+70. Composición y asociación.
+71. Enumeraciones (enum).
+72. Clases y métodos estáticos.
+
+
+***********************************************
+Nivel 7 – Java intermedio y avanzado
+***********************************************
+
+73. Manejo de excepciones.
+74. try, catch y finally.
+75. Excepciones personalizadas.
+76. Clases genéricas.
+77. Colecciones (List, Set, Map).
+78. ArrayList.
+79. LinkedList.
+80. HashSet.
+81. HashMap.
+82. Iteradores.
+83. Expresiones Lambda.
+84. Interfaces funcionales.
+85. Stream API.
+86. Optional.
+87. Manejo de fechas con LocalDate.
+88. Expresiones regulares.
+
+***********************************************
+Nivel 8 – Archivos y persistencia
+***********************************************
+
+89. Lectura de archivos.
+90. Escritura de archivos.
+91. Manejo de archivos TXT.
+92. Manejo de CSV.
+93. Serialización.
+94. Manejo de directorios.
+95. Conexión con bases de datos.
+96. JDBC.
+97. MySQL y PostgreSQL.
+98. Consultas SQL desde Java.
+99. CRUD completo.
+100. Transacciones.
+
+***********************************************
+Nivel 9 – Desarrollo profesional
+***********************************************
+
+101. Organización de proyectos.
+102. Paquetes (package).
+103. Importaciones (import).
+104. Maven.
+105. Gradle.
+106. JUnit.
+107. Pruebas unitarias.
+108. Depuración.
+109. Principios SOLID.
+110. Patrones de diseño.
+111. Git y GitHub.
+112. Buenas prácticas de programación.
+
+
+***********************************************
+Nivel 10 – Proyectos reales
+***********************************************
+
+- Sistema de gestión de estudiantes.
+- Sistema de inventario.
+- Sistema de facturación.
+- Sistema de empleados y nóminas.
+- Sistema bancario.
+- Sistema de usuarios y autenticación.
+- Sistema CRUD conectado a PostgreSQL.
+- Proyecto final empresarial.
