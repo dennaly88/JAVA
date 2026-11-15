@@ -44,8 +44,10 @@
 
 
 _____________________________________________________________________________________________________________________________________________________________
-📚 Biblioteca – CRUD de libros con Laravel                                                                                                  
-📌 Aplicación para gestionar una biblioteca de libros y categorías (CRUD + filtro por categoría).                                                                                                          🗓️ Arquitectura MVC, migraciones, seeders, Form Requests y Eloquent. Base de datos: PostgreSQL.
+## ♨️ Java y Spring Boot
+📌 **Aplicación para gestionar una biblioteca de libros y categorías (CRUD + filtro por categoría).**  
+🗓️ **Arquitectura:** MVC / Capas (Controller, Service, Repository), Spring Data JPA (Hibernate), Bean Validation y Thymeleaf.  
+🗄️ **Base de datos:** PostgreSQL.
 
 ______________________________________________________________________________________________________________________________________________________________
 
@@ -53,88 +55,101 @@ ________________________________________________________________________________
 
 
 
+---
 
+### 📋 Requisitos
+- **Java JDK** >= 17 (recomendado Java 21 LTS)
+- **Maven** >= 3.8 (o usar el wrapper `./mvnw` incluido)
+- **PostgreSQL** >= 14
 
-## Requisitos
-- PHP >= 8.2 con las extensiones `pdo_pgsql` y `pgsql`
-- Composer
-- PostgreSQL
+---
 
-## Instalación y ejecución
+### ⚙️ Instalación y ejecución
 
+**1. Clonar el proyecto**
 ```bash
-# 1. Clonar e instalar dependencias
-git clone <URL_DEL_REPOSITORIO> biblioteca
-cd biblioteca
-composer install
+git clone <URL_DEL_REPOSITORIO> biblioteca-java
+cd biblioteca-java
+```
 
-# 2. Entorno
-cp .env.example .env
-php artisan key:generate
-
-# 3. Crear la base de datos en PostgreSQL
+**2. Crear la base de datos en PostgreSQL**
+```bash
 sudo -u postgres psql -c "CREATE DATABASE biblioteca;"
 ```
 
-Revisa en `.env` que los datos coincidan con tu PostgreSQL:
-```
-DB_CONNECTION=pgsql
-DB_HOST=127.0.0.1
-DB_PORT=5432
-DB_DATABASE=biblioteca
-DB_USERNAME=postgres
-DB_PASSWORD=postgres
+**3. Configurar la conexión**
+Revisa en `src/main/resources/application.properties` (o `application.yml`) que los datos coincidan con tu PostgreSQL:
+```properties
+spring.datasource.url=jdbc:postgresql://localhost:5432/biblioteca
+spring.datasource.username=postgres
+spring.datasource.password=postgres
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 ```
 
+**4. Compilar y levantar el servidor**
 ```bash
-# 4. Migraciones y datos de ejemplo
-php artisan migrate --seed
-
-# 5. Levantar el servidor
-php artisan serve
+./mvnw spring-boot:run
 ```
-Abre http://127.0.0.1:8000 (redirige a `/books`).
+*(En Windows usa: `mvnw.cmd spring-boot:run`)*
 
-## Endpoints
+👉 Abre [http://localhost:8080](http://localhost:8080) en tu navegador (redirige automáticamente a `/books`).
+
+---
+
+### 🔗 Endpoints
 
 | Método | Ruta | Descripción |
-|---|---|---|
-| GET | `/books` | Lista los libros (paginado) |
-| GET | `/books?category={id}` | Filtra por categoría |
-| POST | `/books` | Crea un libro |
-| PUT | `/books/{id}` | Edita un libro |
-| DELETE | `/books/{id}` | Elimina un libro |
-| GET/POST/PUT/DELETE | `/categories` | Gestión de categorías |
+| :--- | :--- | :--- |
+| `GET` | `/books` | Lista los libros (paginado con `Pageable`) |
+| `GET` | `/books?category={id}` | Filtra los libros por categoría |
+| `POST` | `/books` | Crea un nuevo libro |
+| `PUT` | `/books/{id}` | Edita un libro existente |
+| `DELETE` | `/books/{id}` | Elimina un libro |
+| `GET / POST / PUT / DELETE` | `/categories` | Gestión completa (CRUD) de categorías |
 
-- **Interfaz web** (Blade + Bootstrap): `/books` y `/categories`. Tras crear, editar o eliminar,
-  se redirige al listado con un mensaje.
-- **API JSON** (útil en Postman/curl): mismas operaciones bajo `/api/books` y `/api/categories`,
-  sin CSRF. También se obtiene JSON en `/books` enviando `Accept: application/json`.
+* **Interfaz Web (Thymeleaf + Bootstrap):** Disponible en `/books` y `/categories`. Tras crear, editar o eliminar un registro, redirige al listado con un mensaje flash (`RedirectAttributes`).
+* **API REST JSON (Postman / cURL):** Las mismas operaciones están disponibles bajo `/api/books` y `/api/categories` mediante `@RestController`.
 
-Ejemplo:
+#### Ejemplo de petición con cURL:
 ```bash
-curl -X POST http://127.0.0.1:8000/api/books \
-  -H "Accept: application/json" -H "Content-Type: application/json" \
-  -d '{"title":"Dune","author":"Frank Herbert","published_year":1965,"category_id":3}'
+curl -X POST http://localhost:8080/api/books \
+  -H "Accept: application/json" \
+  -H "Content-Type: application/json" \
+  -d '{"title":"Dune","author":"Frank Herbert","publishedYear":1965,"categoryId":3}'
 ```
 
-### Códigos HTTP
-`200` OK · `201` creado · `404` libro/categoría inexistente · `409` categoría con libros asociados · `422` error de validación.
+#### Códigos de estado HTTP (`ResponseEntity`):
+* `200` **OK:** Petición exitosa.
+* `201` **Created:** Recurso creado correctamente.
+* `404` **Not Found:** Libro o categoría inexistente (`ResourceNotFoundException`).
+* `409` **Conflict:** No se puede eliminar una categoría porque tiene libros asociados (`DataIntegrityViolationException`).
+* `422` / `400` **Validation Error:** Error de validación en los datos enviados (`MethodArgumentNotValidException`).
 
-## Validaciones (Form Requests)
-- `title`: obligatorio, mínimo 3 caracteres
-- `author`: obligatorio
-- `published_year`: obligatorio, entero entre 1000 y el año actual
-- `category_id`: obligatorio, debe existir en `categories`
-- `categories.name`: obligatorio y único
+---
 
-## Lógica de negocio
-- Se verifica que el libro exista antes de eliminarlo (404 si no existe).
-- No se puede eliminar una categoría con libros asociados (409); además la FK usa `restrictOnDelete`.
+### 🛡️ Validaciones (Jakarta Bean Validation / DTOs)
+* `title`: `@NotBlank`, `@Size(min = 3)` (obligatorio, mínimo 3 caracteres).
+* `author`: `@NotBlank` (obligatorio).
+* `publishedYear`: `@NotNull`, `@Min(1000)` hasta el año actual (obligatorio).
+* `categoryId`: `@NotNull`, debe existir en la tabla `categories`.
+* `categories.name`: `@NotBlank`, `@Column(unique = true)` (obligatorio y único).
 
-## Estructura relevante
-- `app/Models`: `Book`, `Category` (relaciones `belongsTo` / `hasMany`, scope `ofCategory`)
-- `app/Http/Controllers`: `BookController`, `CategoryController`
-- `app/Http/Requests`: `StoreBookRequest`, `UpdateBookRequest`, `StoreCategoryRequest`, `UpdateCategoryRequest`
-- `database/migrations` y `database/seeders`: esquema y datos de ejemplo
-- `routes/web.php` y `routes/api.php`
+---
+
+### 🧠 Lógica de negocio (`Service`)
+* Se verifica que el libro exista antes de proceder a eliminarlo (lanza `404 Not Found` si no existe).
+* Se impide eliminar una categoría que tenga libros asociados (`409 Conflict`); además, la relación `@ManyToOne` / FK en PostgreSQL restringe el borrado en cascada.
+
+---
+
+### 📂 Estructura relevante del proyecto (`src/main/java/com/biblioteca/`)
+* **`model/` (Entidades JPA):** `Book`, `Category` (relaciones `@ManyToOne` / `@OneToMany`).
+* **`dto/`:** `BookRequestDTO`, `BookResponseDTO`, `CategoryDTO`.
+* **`repository/`:** `BookRepository`, `CategoryRepository` (extienden de `JpaRepository`, consulta `findByCategoryId`).
+* **`service/`:** `BookService`, `CategoryService` (lógica de negocio y transacciones `@Transactional`).
+* **`controller/`:** `BookController`, `CategoryController` (vistas web) y `BookRestController`, `CategoryRestController` (API JSON).
+* **`exception/`:** `GlobalExceptionHandler` (`@RestControllerAdvice` para manejo centralizado de errores HTTP).
+* **`resources/`:** `templates/` (vistas HTML Thymeleaf), `data.sql` (datos iniciales) y `application.properties`.
