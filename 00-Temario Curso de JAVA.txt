@@ -4,7 +4,7 @@
 ***********************************************************************************************
 
 ***********************************************
-     Nivel 1 – Fundamentos de Java
+    ☑️  Nivel 1 – Fundamentos de Java
 ***********************************************
 
 1.  Comentarios                           = ♨️
@@ -24,16 +24,16 @@
    Nivel 2 – Estructuras de control
 ***********************************************
 
-12. Condicional simple if.
-13. Condicional doble if-else.
-14. Condicional múltiple else-if.
-15. switch.
-16. Operador ternario.
-17. Ciclo for.
-18. Ciclo while.
-19. Ciclo do-while.
-20. break y continue.
-21. Ciclos anidados.
+12. Condicional simple if                = ♨️
+13. Condicional doble if-else            = ♨️
+14. Condicional múltiple else-if         = ♨️
+15. switch                               = ♨️
+16. Operador ternario                    = 
+17. Ciclo for                            = 
+18. Ciclo while                          =  
+19. Ciclo do-while                       = 
+20. break y continue                     =
+21. Ciclos anidados                      =
 
 ***********************************************
 Nivel 3 – Ejercicios de lógica y algoritmos
@@ -59,119 +59,117 @@ Nivel 4 – Métodos y funciones
 
 34. Declaración de métodos.
 35. Métodos con parámetros.
-35. Métodos con retorno.
-39. Métodos void.
-40. Sobrecarga de métodos.
-41. Ámbito de variables.
-42. Recursividad.
-43. Paso de argumentos.
-44. Modularización del código.
+36. Métodos con retorno.
+37. Métodos void.
+38. Sobrecarga de métodos.
+39. Ámbito de variables.
+40. Recursividad.
+41. Paso de argumentos.
+42. Modularización del código.
 
 ***********************************************
 Nivel 5 – Arreglos y estructuras de datos
 ***********************************************
 
-45. Vectores.
-46. Recorrer arreglos.
-47. Buscar elementos.
-48. Ordenar arreglos.
-49. Arreglos bidimensionales.
-50. Matrices.
-51. Matrices transpuestas.
-52. Matrices diagonales.
-53. Pilas (Stack).
-54. Colas (Queue).
-55. Listas enlazadas.
-56. Algoritmos de búsqueda y ordenamiento.
+43. Vectores.
+44. Recorrer arreglos.
+45. Buscar elementos.
+46. Ordenar arreglos.
+47. Arreglos bidimensionales.
+48. Matrices.
+49. Matrices transpuestas.
+50. Matrices diagonales.
+51. Pilas (Stack).
+52. Colas (Queue).
+53. Listas enlazadas.
+54. Algoritmos de búsqueda y ordenamiento.
 
 
 ***************************************************
 Nivel 6 – Programación orientada a objetos (POO)
 ***************************************************
 
-57. Introducción a POO.
-58. Clases y objetos.
-59. Atributos.
-60. Métodos.
-61. Constructores.
-62. Encapsulamiento.
-63. Getters y Setters.
-64. Herencia.
-65. Polimorfismo.
-66. Abstracción.
-67. Clases abstractas.
-68. Interfaces.
-69. Sobrecarga y sobrescritura.
-70. Composición y asociación.
-71. Enumeraciones (enum).
-72. Clases y métodos estáticos.
+55. Introducción a POO.
+56. Clases y objetos.
+57. Atributos.
+58. Métodos.
+59. Constructores.
+60. Encapsulamiento.
+61. Getters y Setters.
+62. Herencia.
+63. Polimorfismo.
+64. Abstracción.
+65. Clases abstractas.
+66. Interfaces.
+67. Sobrecarga y sobrescritura.
+68. Composición y asociación.
+69. Enumeraciones (enum).
+70. Clases y métodos estáticos.
 
 
 ***********************************************
 Nivel 7 – Java intermedio y avanzado
 ***********************************************
 
-73. Manejo de excepciones.
-74. try, catch y finally.
-75. Excepciones personalizadas.
-76. Clases genéricas.
-77. Colecciones (List, Set, Map).
-78. ArrayList.
-79. LinkedList.
-80. HashSet.
-81. HashMap.
-82. Iteradores.
-83. Expresiones Lambda.
-84. Interfaces funcionales.
-85. Stream API.
-86. Optional.
-87. Manejo de fechas con LocalDate.
-88. Expresiones regulares.
+71. Manejo de excepciones.
+72. try, catch y finally.
+73. Excepciones personalizadas.
+74. Clases genéricas.
+75. Colecciones (List, Set, Map).
+76. ArrayList.
+77. LinkedList.
+78. HashSet.
+79. HashMap.
+80. Iteradores.
+81. Expresiones Lambda.
+82. Interfaces funcionales.
+83. Stream API.
+84. Optional.
+85. Manejo de fechas con LocalDate.
+86. Expresiones regulares.
 
 ***********************************************
 Nivel 8 – Archivos y persistencia
 ***********************************************
 
-89. Lectura de archivos.
-90. Escritura de archivos.
-91. Manejo de archivos TXT.
-92. Manejo de CSV.
-93. Serialización.
-94. Manejo de directorios.
-95. Conexión con bases de datos.
-96. JDBC.
-97. MySQL y PostgreSQL.
-98. Consultas SQL desde Java.
-99. CRUD completo.
-100. Transacciones.
+87. Lectura de archivos.
+88. Escritura de archivos.
+89. Manejo de archivos TXT.
+90. Manejo de CSV.
+91. Serialización.
+92. Manejo de directorios.
+93. Conexión con bases de datos.
+94. JDBC.
+95. MySQL y PostgreSQL.
+96. Consultas SQL desde Java.
+97. CRUD completo.
+98. Transacciones.
 
 ***********************************************
 Nivel 9 – Desarrollo profesional
 ***********************************************
 
-101. Organización de proyectos.
-102. Paquetes (package).
-103. Importaciones (import).
-104. Maven.
-105. Gradle.
-106. JUnit.
-107. Pruebas unitarias.
-108. Depuración.
-109. Principios SOLID.
-110. Patrones de diseño.
-111. Git y GitHub.
-112. Buenas prácticas de programación.
+99.  Organización de proyectos.
+100. Paquetes (package).
+101. Importaciones (import).
+102. Maven.
+103. Gradle.
+104. JUnit.
+105. Pruebas unitarias.
+106. Depuración.
+107. Principios SOLID.
+108. Patrones de diseño.
 
 
 ***********************************************
 Nivel 10 – Proyectos reales
 ***********************************************
 
-- Sistema de gestión de estudiantes.
-- Sistema de inventario.
-- Sistema de facturación.
-- Sistema de empleados y nóminas.
-- Sistema bancario.
-- Sistema de usuarios y autenticación.
-- Sistema CRUD conectado a PostgreSQL.
-- Proyecto final empresarial.
+1- Sistema de gestión de estudiantes.
+2- Sistema de inventario.
+3- Sistema de facturación.
+4- Sistema de empleados y nóminas.
+5- Sistema bancario.
+6- Sistema de usuarios y autenticación.
+7- Sistema CRUD conectado a PostgreSQL.
+8- Proyecto final empresarial.

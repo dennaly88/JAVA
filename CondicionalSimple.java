@@ -16,10 +16,7 @@ import java.util.Scanner;
 
 public class CondicionalSimple {
     public static void main(String[] args) {
-        /* 
-           La estructura 'if' evalúa una condición ingresada por el usuario.
-           Si es verdadera, ejecuta el bloque; si es falsa, continúa el programa.
-        */
+        
         Scanner teclado = new Scanner(System.in);
 
         System.out.println("""

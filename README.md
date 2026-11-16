@@ -1,157 +1,241 @@
 <div align="center">
   
-<h1 align="center"> DANNY JOSÉ JIMÉNEZ GUTIÉRREZ  </h1>
+<h1 align="center"> DANNY JOSÉ JIMÉNEZ GUTIÉRREZ </h1>
 🖥️_ INGENIERO EN INFORMÁTICA _💻
 
-[![📞 0424-281-44-55](https://img.shields.io/badge/Phone-0424--281--44--55-0078D4?style=for-the-badge&logo=phone&logoColor=white)](tel:04242814455)
-[![✉️ dennaly88@gmail.com](https://img.shields.io/badge/Email-dennály88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennaly88@gmail.com)
+[![📞 0424-281-44-55](https://shields.io)](tel:04242814455)
+[![✉️ dennaly88@gmail.com](https://shields.io)](mailto:dennaly88@gmail.com)
 
 </div>
-
-
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60"     alt="sqlserver logo"  />  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
+  <img src="https://jsdelivr.net" height="75" alt="java logo" />
+  <img width="15" />
+  <img src="https://jsdelivr.net" height="65" alt="postgresql logo" />
+  <img width="15" />
+  <img src="https://jsdelivr.net" height="65" alt="mysql logo" />
+  <img width="15" />
+  <img src="https://jsdelivr.net" height="65" alt="git logo" />
+  <img width="15" />
+  <img src="https://jsdelivr.net" height="65" alt="linux logo" />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://shields.io" height="25" alt="linkedin logo" />
+  <img src="https://shields.io" height="25" alt="twitter logo" />
+  <img src="https://shields.io" height="25" alt="discord logo" />
+  <img src="https://shields.io" height="25" alt="twitch logo" />
+  <img src="https://shields.io" height="25" alt="devto logo" />
+  <img src="https://shields.io" height="25" alt="youtube logo" />
 </div>
 
+---
 
-_____________________________________________________________________________________________________________________________________________________________
-## ♨️ Java y Spring Boot
-📌 **Aplicación para gestionar una biblioteca de libros y categorías (CRUD + filtro por categoría).**  
-🗓️ **Arquitectura:** MVC / Capas (Controller, Service, Repository), Spring Data JPA (Hibernate), Bean Validation y Thymeleaf.  
-🗄️ **Base de datos:** PostgreSQL.
-
-______________________________________________________________________________________________________________________________________________________________
-
-
-
-
+## ☕ Programa Completo del Curso de JAVA ♨️
+📌 **Ruta de aprendizaje práctico desde los fundamentos hasta el desarrollo empresarial.**  
+🗓️ **Tecnologías:** Java SE, POO, Colecciones, Stream API, JDBC, MySQL/PostgreSQL, Maven/Gradle, JUnit y Patrones de Diseño.
 
 ---
 
-### 📋 Requisitos
-- **Java JDK** >= 17 (recomendado Java 21 LTS)
-- **Maven** >= 3.8 (o usar el wrapper `./mvnw` incluido)
-- **PostgreSQL** >= 14
+### 📋 Requisitos e Instalación
+- **JDK:** Java Development Kit 17 o superior
+- **IDE recomendado:** IntelliJ IDEA, Eclipse o VS Code
+- **Gestor de dependencias:** Maven / Gradle
+- **Bases de datos:** PostgreSQL / MySQL (para los niveles 8 y 10)
 
----
-
-### ⚙️ Instalación y ejecución
-
-**1. Clonar el proyecto**
 ```bash
-git clone <URL_DEL_REPOSITORIO> biblioteca-java
-cd biblioteca-java
+# Clonar el repositorio
+git clone <URL_DEL_REPOSITORIO> curso-java
+cd curso-java
+
+# Compilar y ejecutar un archivo de ejemplo
+javac Nivel1/HolaMundo.java
+java Nivel1.HolaMundo
 ```
-
-**2. Crear la base de datos en PostgreSQL**
-```bash
-sudo -u postgres psql -c "CREATE DATABASE biblioteca;"
-```
-
-**3. Configurar la conexión**
-Revisa en `src/main/resources/application.properties` (o `application.yml`) que los datos coincidan con tu PostgreSQL:
-```properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/biblioteca
-spring.datasource.username=postgres
-spring.datasource.password=postgres
-
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
-```
-
-**4. Compilar y levantar el servidor**
-```bash
-./mvnw spring-boot:run
-```
-*(En Windows usa: `mvnw.cmd spring-boot:run`)*
-
-👉 Abre [http://localhost:8080](http://localhost:8080) en tu navegador (redirige automáticamente a `/books`).
 
 ---
 
-### 🔗 Endpoints
+### 🗺️ Temario y Progreso del Curso
 
-| Método | Ruta | Descripción |
-| :--- | :--- | :--- |
-| `GET` | `/books` | Lista los libros (paginado con `Pageable`) |
-| `GET` | `/books?category={id}` | Filtra los libros por categoría |
-| `POST` | `/books` | Crea un nuevo libro |
-| `PUT` | `/books/{id}` | Edita un libro existente |
-| `DELETE` | `/books/{id}` | Elimina un libro |
-| `GET / POST / PUT / DELETE` | `/categories` | Gestión completa (CRUD) de categorías |
+> **Leyenda:** ♨️ Completado | ⏳ En progreso / Pendiente
 
-* **Interfaz Web (Thymeleaf + Bootstrap):** Disponible en `/books` y `/categories`. Tras crear, editar o eliminar un registro, redirige al listado con un mensaje flash (`RedirectAttributes`).
-* **API REST JSON (Postman / cURL):** Las mismas operaciones están disponibles bajo `/api/books` y `/api/categories` mediante `@RestController`.
+<details open>
+<summary><b>Nivel 1 – Fundamentos de Java</b> (Completado ♨️)</summary>
 
-#### Ejemplo de petición con cURL:
-```bash
-curl -X POST http://localhost:8080/api/books \
-  -H "Accept: application/json" \
-  -H "Content-Type: application/json" \
-  -d '{"title":"Dune","author":"Frank Herbert","publishedYear":1965,"categoryId":3}'
-```
+1. Comentarios ♨️
+2. Lecturas ♨️
+3. Escrituras ♨️
+4. Estructura ♨️
+5. Variables ♨️
+6. Constantes ♨️
+7. Tipos de datos primitivos ♨️
+8. Tipos de datos de referencia ♨️
+9. Operadores aritméticos ♨️
+10. Operadores relacionales y lógicos ♨️
+11. Conversión de tipos de datos ♨️
 
-#### Códigos de estado HTTP (`ResponseEntity`):
-* `200` **OK:** Petición exitosa.
-* `201` **Created:** Recurso creado correctamente.
-* `404` **Not Found:** Libro o categoría inexistente (`ResourceNotFoundException`).
-* `409` **Conflict:** No se puede eliminar una categoría porque tiene libros asociados (`DataIntegrityViolationException`).
-* `422` / `400` **Validation Error:** Error de validación en los datos enviados (`MethodArgumentNotValidException`).
+</details>
 
----
+<details>
+<summary><b>Nivel 2 – Estructuras de control</b></summary>
 
-### 🛡️ Validaciones (Jakarta Bean Validation / DTOs)
-* `title`: `@NotBlank`, `@Size(min = 3)` (obligatorio, mínimo 3 caracteres).
-* `author`: `@NotBlank` (obligatorio).
-* `publishedYear`: `@NotNull`, `@Min(1000)` hasta el año actual (obligatorio).
-* `categoryId`: `@NotNull`, debe existir en la tabla `categories`.
-* `categories.name`: `@NotBlank`, `@Column(unique = true)` (obligatorio y único).
+12. Condicional simple `if`
+13. Condicional doble `if-else`
+14. Condicional múltiple `else-if`
+15. `switch`
+16. Operador ternario
+17. Ciclo `for`
+18. Ciclo `while`
+19. Ciclo `do-while`
+20. `break` y `continue`
+21. Ciclos anidados
 
----
+</details>
 
-### 🧠 Lógica de negocio (`Service`)
-* Se verifica que el libro exista antes de proceder a eliminarlo (lanza `404 Not Found` si no existe).
-* Se impide eliminar una categoría que tenga libros asociados (`409 Conflict`); además, la relación `@ManyToOne` / FK en PostgreSQL restringe el borrado en cascada.
+<details>
+<summary><b>Nivel 3 – Ejercicios de lógica y algoritmos</b></summary>
 
----
+22. Operaciones matemáticas
+23. Cálculo de áreas y perímetros
+24. Promedios y calificaciones
+25. Sueldos, descuentos e impuestos
+26. Números pares e impares
+27. Números primos
+28. Factoriales
+29. Series numéricas
+30. Tablas de multiplicar
+31. Validaciones
+32. Menús interactivos
+33. Contadores y acumuladores
 
-### 📂 Estructura relevante del proyecto (`src/main/java/com/biblioteca/`)
-* **`model/` (Entidades JPA):** `Book`, `Category` (relaciones `@ManyToOne` / `@OneToMany`).
-* **`dto/`:** `BookRequestDTO`, `BookResponseDTO`, `CategoryDTO`.
-* **`repository/`:** `BookRepository`, `CategoryRepository` (extienden de `JpaRepository`, consulta `findByCategoryId`).
-* **`service/`:** `BookService`, `CategoryService` (lógica de negocio y transacciones `@Transactional`).
-* **`controller/`:** `BookController`, `CategoryController` (vistas web) y `BookRestController`, `CategoryRestController` (API JSON).
-* **`exception/`:** `GlobalExceptionHandler` (`@RestControllerAdvice` para manejo centralizado de errores HTTP).
-* **`resources/`:** `templates/` (vistas HTML Thymeleaf), `data.sql` (datos iniciales) y `application.properties`.
+</details>
+
+<details>
+<summary><b>Nivel 4 – Métodos y funciones</b></summary>
+
+34. Declaración de métodos
+35. Métodos con parámetros
+36. Métodos con retorno
+37. Métodos `void`
+38. Sobrecarga de métodos
+39. Ámbito de variables
+40. Recursividad
+41. Paso de argumentos
+42. Modularización del código
+
+</details>
+
+<details>
+<summary><b>Nivel 5 – Arreglos y estructuras de datos</b></summary>
+
+43. Vectores
+44. Recorrer arreglos
+45. Buscar elementos
+46. Ordenar arreglos
+47. Arreglos bidimensionales
+48. Matrices
+49. Matrices transpuestas
+50. Matrices diagonales
+51. Pilas (`Stack`)
+52. Colas (`Queue`)
+53. Listas enlazadas
+54. Algoritmos de búsqueda y ordenamiento
+
+</details>
+
+<details>
+<summary><b>Nivel 6 – Programación orientada a objetos (POO)</b></summary>
+
+55. Introducción a POO
+56. Clases y objetos
+57. Atributos
+58. Métodos
+59. Constructores
+60. Encapsulamiento
+61. Getters y Setters
+62. Herencia
+63. Polimorfismo
+64. Abstracción
+65. Clases abstractas
+66. Interfaces
+67. Sobrecarga y sobrescritura
+68. Composición y asociación
+69. Enumeraciones (`enum`)
+70. Clases y métodos estáticos
+
+</details>
+
+<details>
+<summary><b>Nivel 7 – Java intermedio y avanzado</b></summary>
+
+71. Manejo de excepciones
+72. `try`, `catch` y `finally`
+73. Excepciones personalizadas
+74. Clases genéricas
+75. Colecciones (`List`, `Set`, `Map`)
+76. `ArrayList`
+77. `LinkedList`
+78. `HashSet`
+79. `HashMap`
+80. Iteradores
+81. Expresiones Lambda
+82. Interfaces funcionales
+83. Stream API
+84. `Optional`
+85. Manejo de fechas con `LocalDate`
+86. Expresiones regulares
+
+</details>
+
+<details>
+<summary><b>Nivel 8 – Archivos y persistencia</b></summary>
+
+87. Lectura de archivos
+88. Escritura de archivos
+89. Manejo de archivos TXT
+90. Manejo de CSV
+91. Serialización
+92. Manejo de directorios
+93. Conexión con bases de datos
+94. JDBC
+95. MySQL y PostgreSQL
+96. Consultas SQL desde Java
+97. CRUD completo
+98. Transacciones
+
+</details>
+
+<details>
+<summary><b>Nivel 9 – Desarrollo profesional</b></summary>
+
+99. Organización de proyectos
+100. Paquetes (`package`)
+101. Importaciones (`import`)
+102. Maven
+103. Gradle
+104. JUnit
+105. Pruebas unitarias
+106. Depuración
+107. Principios SOLID
+108. Patrones de diseño
+109. Git y GitHub
+110. Buenas prácticas de programación
+
+</details>
+
+<details>
+<summary><b>Nivel 10 – Proyectos reales</b></summary>
+
+- Sistema de gestión de estudiantes
+- Sistema de inventario
+- Sistema de facturación
+- Sistema de empleados y nóminas
+- Sistema bancario
+- Sistema de usuarios y autenticación
+- Sistema CRUD conectado a PostgreSQL
+- Proyecto final empresarial
+
+</details>
+
