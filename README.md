@@ -100,37 +100,37 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 
 ---
 
-# 🚀 RUTA 1 – Java Base
+# 🚀 RUTA 1 – Java Base ♨️
 
 ## 🛡️ Nivel 1 – Fundamentos de Java
 | # | Tema | Estado |
 |---|---|---|
-| 1 | Comentarios |♨️|
-| 2 | Lecturas |♨️ |
-| 3 | Escrituras |♨️ |
-| 4 | Estructura |♨️ |
-| 5 | Variables |♨️  |
-| 6 | Constantes |♨️  |
-| 7 | Tipos de datos primitivos |♨️  |
-| 8 | Tipos de datos de referencia |♨️  |
-| 9 | Operadores aritméticos |♨️ |
-| 10 | Operadores relacionales y lógicos |♨️  |
-| 11 | Operaciones comparativas |♨️  |
-| 12 | Conversión de tipos de datos |♨️  |
+| 1 | Comentarios |☑️|
+| 2 | Lecturas |☑️ |
+| 3 | Escrituras |☑️ |
+| 4 | Estructura |☑️ |
+| 5 | Variables |☑️  |
+| 6 | Constantes |☑️  |
+| 7 | Tipos de datos primitivos |☑️  |
+| 8 | Tipos de datos de referencia |☑️  |
+| 9 | Operadores aritméticos |☑️ |
+| 10 | Operadores relacionales y lógicos |☑️  |
+| 11 | Operaciones comparativas |☑️  |
+| 12 | Conversión de tipos de datos |☑️ |
 
 ## 📚 Nivel 2 – Estructuras de control
 | # | Tema | Estado |
 |---|---|---|
-| 13 | Condicional simple `if` |  |
-| 14 | Condicional doble `if-else` |  |
-| 15 | Condicional múltiple `else-if` | |
-| 16 | `switch` | |
-| 17 | Operador ternario | |
-| 18 | Ciclo `for` | |
-| 19 | Ciclo `while` | |
-| 20 | Ciclo `do-while` | |
-| 21 | `break` y `continue` | |
-| 22 | Ciclos anidados | |
+| 13 | Condicional simple `if` |☑️|
+| 14 | Condicional doble `if-else` |☑️  |
+| 15 | Condicional múltiple `else-if` |☑️ |
+| 16 | `switch` |☑️ |
+| 17 | Operador ternario |☑️ |
+| 18 | Ciclo `for` |☑️ |
+| 19 | Ciclo `while` |☑️ |
+| 20 | Ciclo `do-while` |☑️ |
+| 21 | `break` y `continue` |☑️ |
+| 22 | Ciclos anidados |☑️ |
 
 ## ⚙️ Nivel 3 – Ejercicios de lógica y algoritmos
 | # | Tema |
