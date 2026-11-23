@@ -105,9 +105,9 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 ## 🛡️ Nivel 1 – Fundamentos de Java
 | # | Tema | Estado |
 |---|---|---|
-| 1 | Comentarios |  |
-| 2 | Lecturas |  |
-| 3 | Escrituras |  |
+| 1 | Comentarios |♨️|
+| 2 | Lecturas |♨️ |
+| 3 | Escrituras |♨️ |
 | 4 | Estructura |  |
 | 5 | Variables |  |
 | 6 | Constantes |  |
