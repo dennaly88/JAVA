@@ -108,15 +108,15 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 | 1 | Comentarios |♨️|
 | 2 | Lecturas |♨️ |
 | 3 | Escrituras |♨️ |
-| 4 | Estructura |  |
-| 5 | Variables |  |
-| 6 | Constantes |  |
-| 7 | Tipos de datos primitivos |  |
-| 8 | Tipos de datos de referencia |  |
-| 9 | Operadores aritméticos | |
-| 10 | Operadores relacionales y lógicos |  |
-| 11 | Operaciones comparativas |  |
-| 12 | Conversión de tipos de datos |  |
+| 4 | Estructura |♨️ |
+| 5 | Variables |♨️  |
+| 6 | Constantes |♨️  |
+| 7 | Tipos de datos primitivos |♨️  |
+| 8 | Tipos de datos de referencia |♨️  |
+| 9 | Operadores aritméticos |♨️ |
+| 10 | Operadores relacionales y lógicos |♨️  |
+| 11 | Operaciones comparativas |♨️  |
+| 12 | Conversión de tipos de datos |♨️  |
 
 ## 📚 Nivel 2 – Estructuras de control
 | # | Tema | Estado |
