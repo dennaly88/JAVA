@@ -1,0 +1,46 @@
+╔════════════════════════════════════════╗
+║  🍵 Perfil Backend Senior Java 🍵     ║
+╚════════════════════════════════════════╝
+
+
+🍵 Versión de Java 8-11-17-21
+🍵 Spring Framework
+🍵 Spring Boot
+🍵 Spring MVC
+🍵 Spring WebFlux
+🍵 Spring GraphQL
+🍵 Spring Data
+🍵 Spring Data JPA
+🍵 Spring Data Redis
+🍵 Spring Data JDBC
+🍵 Spring Data R2DBC
+🍵 Spring Security 
+🍵 Spring Authorization Server
+🍵 Spring Cloud Gateway
+🍵 Spring Cloud Config
+🍵 Spring Cloud Netflix 
+🍵 Spring Cloud OpenFeign
+🍵 Spring Cloud Circuit Breaker 
+🍵 Spring Cloud Stream
+🍵 Spring Cloud Function
+🍵 Spring Batch
+🍵 Spring Integration
+🍵 Spring for Apache Kafka
+🍵 Spring AMQP
+🍵 Spring AI
+🍵 Spring Modulith
+🍵 Spring Shell
+🍵 Maven o Gradle
+🍵 OAuth2/JWT
+🍵 Docke
+🍵 Kubernetes
+🍵 Azure
+🍵 AKS
+🍵 Azure DevOps
+🍵 Key Vault
+🍵 Service Bus / Event Hub
+🍵 Azure SQL / PostgreSQL
+🍵 SQL SERVER, ORACLE, MONGO DB, COSMOS DB 
+
+
+
