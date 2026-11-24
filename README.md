@@ -3,12 +3,12 @@
 
 <h1 align="center">Danny José Jiménez Gutiérrez</h1>
 
-<h3 align="center">
-  Software Engineer | Backend & Full Stack Developer
-</h3>
+<p align="center">
+  <strong>INGENIERO EN INFORMÁTICA</strong>
+</p>
 
 <p align="center">
-  <code>Construyendo soluciones tecnológicas · Desarrollo · Arquitectura · Innovación</code>
+  Desarrollo de Software | Backend | Tecnologías Web | Bases de Datos
 </p>
 
 [![📞 0424-281-44-55](https://img.shields.io/badge/Phone-0424--281--44--55-0078D4?style=for-the-badge&logo=phone&logoColor=white)](tel:04242814455)
