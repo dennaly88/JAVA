@@ -172,31 +172,31 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 ## 💎 Nivel 4 – Métodos y funciones
 | # | Tema |Estado |
 |---|---|---|
-| 35 | Declaración de métodos | |
-| 36 | Métodos con parámetros | |
-| 37 | Métodos con retorno | |
-| 38 | Métodos `void` | |
-| 39 | Sobrecarga de métodos | |
-| 40 | Ámbito de variables | |
-| 41 | Recursividad | |
-| 42 | Paso de argumentos | |
-| 43 | Modularización del código | |
+| 35 | Declaración de métodos |☑️|
+| 36 | Métodos con parámetros |☑️ |
+| 37 | Métodos con retorno |☑️ |
+| 38 | Métodos `void` |☑️ |
+| 39 | Sobrecarga de métodos |☑️ |
+| 40 | Ámbito de variables |☑️ |
+| 41 | Recursividad |☑️ |
+| 42 | Paso de argumentos |☑️ |
+| 43 | Modularización del código |☑️ |
 
 ## 📓 Nivel 5 – Arreglos y estructuras de datos
 | # | Tema |Estado |
 |---|---|---|
-| 44 | Vectores |
-| 45 | Recorrer arreglos |
-| 46 | Buscar elementos |
-| 47 | Ordenar arreglos |
-| 48 | Arreglos bidimensionales |
-| 49 | Matrices |
-| 50 | Matrices transpuestas |
-| 51 | Matrices diagonales |
-| 52 | Pilas (Stack) |
-| 53 | Colas (Queue) |
-| 54 | Listas enlazadas |
-| 55 | Algoritmos de búsqueda y ordenamiento |
+| 44 | Vectores |☑️
+| 45 | Recorrer arreglos |☑️
+| 46 | Buscar elementos |☑️
+| 47 | Ordenar arreglos |☑️
+| 48 | Arreglos bidimensionales |☑️
+| 49 | Matrices |☑️
+| 50 | Matrices transpuestas |☑️
+| 51 | Matrices diagonales |☑️
+| 52 | Pilas (Stack) |☑️
+| 53 | Colas (Queue) |☑️
+| 54 | Listas enlazadas |☑️
+| 55 | Algoritmos de búsqueda y ordenamiento |☑️
 
 ## 🛢️ Nivel 6 – Programación orientada a objetos (POO)
 | # | Tema |Estado |
