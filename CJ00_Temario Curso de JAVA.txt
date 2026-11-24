@@ -1,246 +1,283 @@
-
-
 ╔═══════════════════════════════════════════════════════════════╗
-║                   ♨️ Curso de JAVA 2026 ♨️                    ║
+║                    ♨️ Curso de JAVA 2026 ♨️                   ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ╔═══════════════════════════════════════════════════════════════╗
-║             🚀 RUTA 1 – Perfil Backend Senior Java 🚀         ║
+║                     🚀 RUTA 1 – Java Base 🚀                    ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ╔═══════════════════════════════════════════════════════════════╗
-║            🛡️ Nivel 1 – Fundamentos de Java 🛡️                ║
+║              🛡️ Nivel 1 – Fundamentos de Java 🛡️              ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-1.  Comentarios                           =  ♨️
-2.  Lecturas                              =  ♨️
-3.  Escrituras                            =  ♨️ 
-4.  Estructura                            =  ♨️    
-5.  Variables                             =  ♨️
-6.  Constantes                            =  ♨️
-7.  Tipos de datos primitivos             =  ♨️
-8.  Tipos de datos de referencia          =  ♨️
-9.  Operadores aritméticos                =  ♨️       
-10. Operadores relacionales y lógicos     =  ♨️
-11. Operaciones comparativas              =  ♨️
-12. Conversión de tipos de datos          =  ♨️
-
+1. Comentarios                              = ♨️
+2. Lecturas                                 = ♨️
+3. Escrituras                               = ♨️
+4. Estructura                               = ♨️
+5. Variables                                = ♨️
+6. Constantes                               = ♨️
+7. Tipos de datos primitivos                = ♨️
+8. Tipos de datos de referencia             = ♨️
+9. Operadores aritméticos                   = ♨️
+10. Operadores relacionales y lógicos       = ♨️
+11. Operaciones comparativas                = ♨️
+12. Conversión de tipos de datos            = ♨️
 
 
 ╔═══════════════════════════════════════════════════════════════╗
-║     📚    Nivel 2 – Estructuras de control  📚                ║
+║              📚 Nivel 2 – Estructuras de control 📚             ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-13. Condicional simple if                = ♨️
-14. Condicional doble if-else            = ♨️
-15. Condicional múltiple else-if         = ♨️
-16. Switch                               = ♨️
-17. Operador ternario                    = ♨️
-18. Ciclo for                            = ♨️
-19. Ciclo while                          = ♨️ 
-20. Ciclo do-while                       = ♨️
-21. Break y continue                     = ♨️
-22. Ciclos anidados                      = ♨️
-
+13. Condicional simple if                   = ♨️
+14. Condicional doble if-else               = ♨️
+15. Condicional múltiple else-if            = ♨️
+16. Switch                                  = ♨️
+17. Operador ternario                       = ♨️
+18. Ciclo for                               = ♨️
+19. Ciclo while                             = ♨️
+20. Ciclo do-while                          = ♨️
+21. Break y continue                        = ♨️
+22. Ciclos anidados                         = ♨️
 
 ╔═══════════════════════════════════════════════════════════════╗
-║   ⚙️  Nivel 3 – Ejercicios de lógica y algoritmos   ⚙️        ║
+║       ⚙️ Nivel 3 – Ejercicios de lógica y algoritmos ⚙️       ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-23. Operaciones matemáticas              =
-24. Cálculo de áreas y perímetros        =
-25. Promedios y calificaciones           =
-26. Sueldos, descuentos e impuestos      =
-27. Números pares e impares              =
-28. Números primos                       =
-29. Factoriales                          =
-30. Series numéricas                     =
-31. Tablas de multiplicar                =
-32. Validaciones                         =
-33. Menús interactivos                   =
-34. Contadores y acumuladores            =
-
+23. Operaciones matemáticas                 = ♨️
+24. Cálculo de áreas y perímetros           = ♨️
+25. Promedios y calificaciones              = ♨️
+26. Sueldos, descuentos e impuestos         = ♨️
+27. Números pares e impares                 = ♨️
+28. Números primos                          = ♨️
+29. Factoriales                             = ♨️
+30. Series numéricas                        = ♨️
+31. Tablas de multiplicar                   = ♨️
+32. Validaciones                            = ♨️
+33. Menús interactivos                      = ♨️
+34. Contadores y acumuladores               = ♨️
 
 ╔═══════════════════════════════════════════════════════════════╗
-║           💎   Nivel 4 – Métodos y funciones     💎           ║
+║               💎 Nivel 4 – Métodos y funciones 💎             ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-35. Declaración de métodos               =
-36. Métodos con parámetros               =
-37. Métodos con retorno                  =
-38. Métodos void                         =      
-39. Sobrecarga de métodos                =
-40. Ámbito de variables                  =
-41. Recursividad                         =
-42. Paso de argumentos                   =
-43. Modularización del código            =
-
+35. Declaración de métodos                  = ♨️
+36. Métodos con parámetros                  = ♨️
+37. Métodos con retorno                     = ♨️
+38. Métodos void                            = ♨️
+39. Sobrecarga de métodos                   = ♨️
+40. Ámbito de variables                     = ♨️
+41. Recursividad                            = ♨️
+42. Paso de argumentos                      = ♨️
+43. Modularización del código               = 
 
 ╔═══════════════════════════════════════════════════════════════╗
-║          📓 Nivel 5 – Arreglos y estructuras de datos  📓     ║
+║         📓 Nivel 5 – Arreglos y estructuras de datos 📓       ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-44. Vectores                               =
-45. Recorrer arreglos                      =
-46. Buscar elementos                       =
-47. Ordenar arreglos                       =
-48. Arreglos bidimensionales               =
-49. Matrices                               =
-50. Matrices transpuestas                  =
-51. Matrices diagonales                    =
-52. Pilas (Stack)                          =
-53. Colas (Queue)                          =
-54. Listas enlazadas                       =
-55. Algoritmos de búsqueda y ordenamiento  =
-
+44. Vectores                                = 
+45. Recorrer arreglos                       = 
+46. Buscar elementos                        = 
+47. Ordenar arreglos                        = 
+48. Arreglos bidimensionales                = 
+49. Matrices                                = 
+50. Matrices transpuestas                   = 
+51. Matrices diagonales                     = 
+52. Pilas (Stack)                           = 
+53. Colas (Queue)                           = 
+54. Listas enlazadas                        = 
+55. Búsqueda y ordenamiento                 =
 
 ╔═══════════════════════════════════════════════════════════════╗
 ║     🛢️ Nivel 6 – Programación orientada a objetos (POO) 🛢️    ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-56. POO                                    =
-57. Clases y objetos                       =
-58. Atributos                              =
-59. Métodos                                =
-60. Constructores                          =
-61. Encapsulamiento                        =
-62. Getters y Setters                      =
-63. Herencia                               =
-64. Polimorfismo                           =
-65. Abstracción                            =
-66. Clases abstractas                      =
-67. Interfaces                             =
-68. Sobrecarga y sobrescritura             =
-69. Composición y asociación               =
-70. Enumeraciones (enum)                   =
-71. Clases y métodos estáticos             =
+56. POO                                     = 
+57. Clases y objetos                        = 
+58. Atributos                               = 
+59. Métodos                                 = 
+60. Constructores                           = 
+61. Encapsulamiento                         = 
+62. Getters y Setters                       = 
+63. Herencia                                = 
+64. Polimorfismo                            = 
+65. Abstracción                             = 
+66. Clases abstractas                       = 
+67. Interfaces                              = 
+68. Sobrecarga y sobrescritura              = 
+69. Composición y asociación                = 
+70. Enumeraciones (enum)                    = 
+71. Clases y métodos estáticos              =
 
 ╔═══════════════════════════════════════════════════════════════╗
-║        🔒  Nivel 7 – Java intermedio y avanzado   🔒          ║
+║            🔒 Nivel 7 – Java intermedio y avanzado 🔒         ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-72. Manejo de excepciones                  =
-73. try, catch y finally                   =
-74. Excepciones personalizadas             =
-75. Clases genéricas                       =
-76. Colecciones (List, Set, Map)           =
-77. ArrayList                              =
-78. LinkedList                             =
-79. HashSet                                =
-80. HashMap                                =
-81. Iteradores                             =
-82. Expresiones Lambda                     =
-83. Interfaces funcionales                 =
-84. Stream API                             =
-85. Optional                               =
-86. Manejo de fechas con LocalDate         =
-87. Expresiones regulares                  =
-
+72. Manejo de excepciones                   = 
+73. try, catch y finally                    = 
+74. Excepciones personalizadas              = 
+75. Clases genéricas                        = 
+76. Colecciones (List, Set, Map)            = 
+77. ArrayList                               = 
+78. LinkedList                              = 
+79. HashSet                                 = 
+80. HashMap                                 = 
+81. Iteradores                              = 
+82. Expresiones Lambda                      = 
+83. Interfaces funcionales                  = 
+84. Stream API                              = 
+85. Optional                                = 
+86. Manejo de fechas con LocalDate          = 
+87. Expresiones regulares                   =
 
 ╔═══════════════════════════════════════════════════════════════╗
-║      🛢️   Nivel 8 – Archivos y persistencia    🛢️             ║
+║            🛢️ Nivel 8 – Archivos y persistencia 🛢️            ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-88. Lectura de archivos
-89. Escritura de archivos
-90. Manejo de archivos TXT
-91. Manejo de CSV
-92. Serialización
-93. Manejo de directorios
-94. Conexión con bases de datos
-95. JDBC
-96. MySQL y PostgreSQL
-97. Consultas SQL desde Java
-98. CRUD completo
-99. Transacciones
+88. Lectura de archivos                     = 
+89. Escritura de archivos                   = 
+90. Manejo de archivos TXT                  = 
+91. Manejo de CSV                           = 
+92. Serialización                           = 
+93. Manejo de directorios                   = 
+94. Conexión con bases de datos             = 
+95. JDBC                                    = 
+96. MySQL y PostgreSQL                      = 
+97. Consultas SQL desde Java                = 
+98. CRUD completo                           = 
+99. Transacciones                           =
 
 ╔═══════════════════════════════════════════════════════════════╗
-║      🖥️  Nivel 9 – Interfaces gráficas (Swing y JavaFX)  🖥️   ║
+║      🖥️ Nivel 9 – Interfaces gráficas (Swing y JavaFX) 🖥️     ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-100. Introducción a las interfaces gráficas (GUI)
-101. JOptionPane (cuadros de diálogo)
-102. Swing: JFrame y JPanel
-103. Componentes básicos (JLabel, JButton, JTextField, JTextArea)
-104. Componentes de selección (JCheckBox, JRadioButton, JComboBox)
-105. Layouts (FlowLayout, BorderLayout, GridLayout, GridBagLayout)
-106. Manejo de eventos (ActionListener, MouseListener, KeyListener)
-107. Tablas y listas (JTable, JList)
-108. Menús y barras de herramientas
-109. Validación de formularios
-110. Conexión de interfaces con bases de datos (CRUD gráfico)
-111. Introducción a JavaFX
-112. Scene, Stage y FXML
-113. Controles y layouts en JavaFX
-114. Eventos y propiedades (binding)
-115. CSS en JavaFX
-116. Swing vs JavaFX
-
+100. Introducción a las interfaces gráficas (GUI)                   = 
+101. JOptionPane (cuadros de diálogo)                               = 
+102. Swing: JFrame y JPanel                                         = 
+103. Componentes básicos (JLabel, JButton, JTextField, JTextArea)   = 
+104. Componentes de selección (JCheckBox, JRadioButton, JComboBox)  = 
+105. Layouts (FlowLayout, BorderLayout, GridLayout, GridBagLayout)  = 
+106. Manejo de eventos (ActionListener, MouseListener, KeyListener) = 
+107. Tablas y listas (JTable, JList)                                = 
+108. Menús y barras de herramientas                                 = 
+109. Validación de formularios                                      = 
+110. Conexión de interfaces con bases de datos (CRUD gráfico)       = 
+111. Introducción a JavaFX                                          = 
+112. Scene, Stage y FXML                                            = 
+113. Controles y layouts en JavaFX                                  = 
+114. Eventos y propiedades (binding)                                = 
+115. CSS en JavaFX                                                  = 
+116. Swing vs JavaFX                                                =
 
 ╔═══════════════════════════════════════════════════════════════╗
-║      📝  Nivel 10 – Desarrollo profesional  📝                 ║
+║             📝 Nivel 10 – Desarrollo profesional 📝           ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-117.  Organización de proyectos.
-118. Paquetes (package).
-119. Importaciones (import).
-120. Maven.
-121. Gradle.
-122. JUnit.
-123. Pruebas unitarias.
-124. Depuración.
-125. Principios SOLID.
-126. Patrones de diseño.
-
+117. Organización de proyectos              = 
+118. Paquetes (package)                     = 
+119. Importaciones (import)                 = 
+120. Maven                                  = 
+121. Gradle                                 = 
+122. JUnit                                  = 
+123. Pruebas unitarias                      = 
+124. Depuración                             = 
+125. Principios SOLID                       = 
+126. Patrones de diseño                     = 
+127. 🏛️ Arquitectura Monolítica en Capas (Layered Architecture)=
 
 ╔═══════════════════════════════════════════════════════════════╗
-║    📗 Nivel 11 – Proyectos reales     📗                      ║
+║                📗 Nivel 11 – Proyectos reales 📗              ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-127- Sistema de gestión de estudiantes.
-128- Sistema de inventario.
-129- Sistema de facturación.
-130- Sistema de empleados y nóminas.
-131- Sistema bancario.
-132- Sistema de usuarios y autenticación.
-133- Sistema CRUD conectado a PostgreSQL.
-134- Proyecto final empresarial.
+128- Sistema de gestión de estudiantes (arquitectura en capas)= 
+129- Sistema de inventario                  = 
+130- Sistema de facturación                 = 
+131- Sistema de empleados y nóminas         = 
+132- Sistema bancario                       = 
+133- Sistema de usuarios y autenticación    = 
+134- Sistema CRUD conectado a PostgreSQL    = 
+135- Proyecto final empresarial             =
+
+╔═══════════════════════════════════════════════════════════════╗
+║            🚀 RUTA 2 – Perfil Backend Senior Java 🚀          ║
+╚═══════════════════════════════════════════════════════════════╝
 
 
 ╔═══════════════════════════════════════════════════════════════╗
-║             🚀 RUTA 2 – Perfil Backend Senior Java 🚀         ║
+║              Nivel 12 – Spring Core y Spring Boot             ║
 ╚═══════════════════════════════════════════════════════════════╝
 
 🍵 Versión de Java 8-11-17-21
 🍵 Spring Framework
 🍵 Spring Boot
 🍵 Spring MVC
-🍵 Spring WebFlux
-🍵 Spring GraphQL
+🍵 Maven o Gradle
+
+╔═══════════════════════════════════════════════════════════════╗
+║               Nivel 13 – Persistencia con Spring              ║
+╚═══════════════════════════════════════════════════════════════╝
+
 🍵 Spring Data
 🍵 Spring Data JPA
-🍵 Spring Data Redis
 🍵 Spring Data JDBC
-🍵 Spring Data R2DBC
-🍵 Spring Security 
+🍵 Spring Data Redis
+🍵 SQL Server, Oracle, PostgreSQL
+🍵 MongoDB, Cosmos DB
+
+╔═══════════════════════════════════════════════════════════════╗
+║                      Nivel 14 – Seguridad                     ║
+╚═══════════════════════════════════════════════════════════════╝
+
+🍵 Spring Security
+🍵 OAuth2/JWT
 🍵 Spring Authorization Server
+
+╔═══════════════════════════════════════════════════════════════╗
+║        Nivel 15 – Programación reactiva y APIs modernas       ║
+╚═══════════════════════════════════════════════════════════════╝
+
+🍵 Spring WebFlux
+🍵 Spring Data R2DBC
+🍵 Spring GraphQL
+
+╔═══════════════════════════════════════════════════════════════╗
+║          🏛️ Nivel 16 – Arquitecturas de software I 🏛️         ║
+╚═══════════════════════════════════════════════════════════════╝
+
+🍵 Arquitectura Hexagonal (Puertos y Adaptadores)
+🍵 Arquitectura Limpia (Clean Architecture)
+🍵 Arquitectura Monolítica Modular (sugerido)
+🍵 Spring Modulith
+
+╔═══════════════════════════════════════════════════════════════╗
+║                🏛️ Nivel 17 – Microservicios 🏛️                ║
+╚═══════════════════════════════════════════════════════════════╝
+
+🍵 Arquitectura de Microservicios
 🍵 Spring Cloud Gateway
 🍵 Spring Cloud Config
-🍵 Spring Cloud Netflix 
+🍵 Spring Cloud Netflix
 🍵 Spring Cloud OpenFeign
-🍵 Spring Cloud Circuit Breaker 
-🍵 Spring Cloud Stream
+🍵 Spring Cloud Circuit Breaker
 🍵 Spring Cloud Function
-🍵 Spring Batch
-🍵 Spring Integration
+
+╔═══════════════════════════════════════════════════════════════╗
+║             🏛️ Nivel 18 – Eventos y mensajería 🏛️             ║
+╚═══════════════════════════════════════════════════════════════╝
+
+🍵 Arquitectura Orientada a Eventos (Event-Driven Architecture - EDA)
+🍵 Arquitectura CQRS (Command Query Responsibility Segregation)
+🍵 Event Sourcing (sugerido)
 🍵 Spring for Apache Kafka
 🍵 Spring AMQP
-🍵 Spring AI
-🍵 Spring Modulith
-🍵 Spring Shell
-🍵 Maven o Gradle
-🍵 OAuth2/JWT
-🍵 Docke
+🍵 Spring Cloud Stream
+🍵 Spring Integration
+🍵 Spring Batch
+
+╔═══════════════════════════════════════════════════════════════╗
+║                   Nivel 19 – DevOps y Cloud                   ║
+╚═══════════════════════════════════════════════════════════════╝
+
+🍵 Docker
 🍵 Kubernetes
 🍵 Azure
 🍵 AKS
@@ -248,4 +285,22 @@
 🍵 Key Vault
 🍵 Service Bus / Event Hub
 🍵 Azure SQL / PostgreSQL
-🍵 SQL SERVER, ORACLE, MONGO DB, COSMOS DB 
+
+╔═══════════════════════════════════════════════════════════════╗
+║                   Nivel 20 – Temas avanzados                  ║
+╚═══════════════════════════════════════════════════════════════╝
+
+🍵 Spring AI
+🍵 Spring Shell
+
+╔═══════════════════════════════════════════════════════════════╗
+║                  Tipos de Architecture                        ║
+╚═══════════════════════════════════════════════════════════════╝
+
+
+1. Arquitectura Monolítica en Capas (Layered Architecture)
+2. Arquitectura Hexagonal (Puertos y Adaptadores)
+3. Arquitectura Limpia (Clean Architecture
+4. Arquitectura de Microservicios
+5. Arquitectura Orientada a Eventos (Event-Driven Architecture - EDA)
+6. Arquitectura CQRS (Command Query Responsibility Segregation
