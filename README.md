@@ -162,7 +162,7 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 | 34 | Contadores y acumuladores |☑️|
 
 ## 💎 Nivel 4 – Métodos y funciones
-| # | Tema ||Estado |
+| # | Tema |Estado |
 |---|---|---|
 | 35 | Declaración de métodos | |
 | 36 | Métodos con parámetros | |
