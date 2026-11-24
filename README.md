@@ -4,7 +4,7 @@
 <h1 align="center">Danny José Jiménez Gutiérrez</h1>
 
 <p align="center">
-  <strong>INGENIERO EN INFORMÁTICA</strong>
+  <strong>🖥️ INGENIERO EN INFORMÁTICA 💻</strong>
 </p>
 
 <p align="center">
