@@ -133,20 +133,20 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 | 22 | Ciclos anidados |☑️ |
 
 ## ⚙️ Nivel 3 – Ejercicios de lógica y algoritmos
-| # | Tema |
+| # | Tema |Estado |
 |---|---|
-| 23 | Operaciones matemáticas |
-| 24 | Cálculo de áreas y perímetros |
-| 25 | Promedios y calificaciones |
-| 26 | Sueldos, descuentos e impuestos |
-| 27 | Números pares e impares |
-| 28 | Números primos |
-| 29 | Factoriales |
-| 30 | Series numéricas |
-| 31 | Tablas de multiplicar |
-| 32 | Validaciones |
-| 33 | Menús interactivos |
-| 34 | Contadores y acumuladores |
+| 23 | Operaciones matemáticas |☑️|
+| 24 | Cálculo de áreas y perímetros |☑️|
+| 25 | Promedios y calificaciones |☑️|
+| 26 | Sueldos, descuentos e impuestos |☑️|
+| 27 | Números pares e impares |☑️|
+| 28 | Números primos |☑️|
+| 29 | Factoriales |☑️|
+| 30 | Series numéricas |☑️|
+| 31 | Tablas de multiplicar |☑️|
+| 32 | Validaciones |☑️|
+| 33 | Menús interactivos |☑️|
+| 34 | Contadores y acumuladores |☑️|
 
 ## 💎 Nivel 4 – Métodos y funciones
 | # | Tema |
