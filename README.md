@@ -134,7 +134,7 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 
 ## ⚙️ Nivel 3 – Ejercicios de lógica y algoritmos
 | # | Tema |Estado |
-|---|---|
+|---|---|---|
 | 23 | Operaciones matemáticas |☑️|
 | 24 | Cálculo de áreas y perímetros |☑️|
 | 25 | Promedios y calificaciones |☑️|
