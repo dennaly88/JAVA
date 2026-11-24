@@ -162,21 +162,21 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 | 34 | Contadores y acumuladores |☑️|
 
 ## 💎 Nivel 4 – Métodos y funciones
-| # | Tema |
-|---|---|
-| 35 | Declaración de métodos |
-| 36 | Métodos con parámetros |
-| 37 | Métodos con retorno |
-| 38 | Métodos `void` |
-| 39 | Sobrecarga de métodos |
-| 40 | Ámbito de variables |
-| 41 | Recursividad |
-| 42 | Paso de argumentos |
-| 43 | Modularización del código |
+| # | Tema ||Estado |
+|---|---|---|
+| 35 | Declaración de métodos | |
+| 36 | Métodos con parámetros | |
+| 37 | Métodos con retorno | |
+| 38 | Métodos `void` | |
+| 39 | Sobrecarga de métodos | |
+| 40 | Ámbito de variables | |
+| 41 | Recursividad | |
+| 42 | Paso de argumentos | |
+| 43 | Modularización del código | |
 
 ## 📓 Nivel 5 – Arreglos y estructuras de datos
-| # | Tema |
-|---|---|
+| # | Tema |Estado |
+|---|---|---|
 | 44 | Vectores |
 | 45 | Recorrer arreglos |
 | 46 | Buscar elementos |
@@ -191,8 +191,8 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 | 55 | Algoritmos de búsqueda y ordenamiento |
 
 ## 🛢️ Nivel 6 – Programación orientada a objetos (POO)
-| # | Tema |
-|---|---|
+| # | Tema |Estado |
+|---|---|---|
 | 56 | POO |
 | 57 | Clases y objetos |
 | 58 | Atributos |
@@ -211,8 +211,8 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 | 71 | Clases y métodos estáticos |
 
 ## 🔒 Nivel 7 – Java intermedio y avanzado
-| # | Tema |
-|---|---|
+| # | Tema |Estado |
+|---|---|---|
 | 72 | Manejo de excepciones |
 | 73 | `try`, `catch` y `finally` |
 | 74 | Excepciones personalizadas |
@@ -231,8 +231,8 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 | 87 | Expresiones regulares |
 
 ## 🛢️ Nivel 8 – Archivos y persistencia
-| # | Tema |
-|---|---|
+| # | Tema |Estado |
+|---|---|---|
 | 88 | Lectura de archivos |
 | 89 | Escritura de archivos |
 | 90 | Manejo de archivos TXT |
@@ -247,8 +247,8 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 | 99 | Transacciones |
 
 ## 🖥️ Nivel 9 – Interfaces gráficas (Swing y JavaFX)
-| # | Tema |
-|---|---|
+| # | Tema |Estado |
+|---|---|---|
 | 100 | Introducción a las interfaces gráficas (GUI) |
 | 101 | JOptionPane (cuadros de diálogo) |
 | 102 | Swing: JFrame y JPanel |
@@ -268,8 +268,8 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 | 116 | Swing vs JavaFX |
 
 ## 📝 Nivel 10 – Desarrollo profesional
-| # | Tema |
-|---|---|
+| # | Tema |Estado |
+|---|---|---|
 | 117 | Organización de proyectos |
 | 118 | Paquetes (`package`) |
 | 119 | Importaciones (`import`) |
@@ -282,8 +282,8 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 | 126 | Patrones de diseño |
 
 ## 📗 Nivel 11 – Proyectos reales
-| # | Proyecto |
-|---|---|
+| # | Proyecto |Estado |
+|---|---|---|
 | 127 | Sistema de gestión de estudiantes |
 | 128 | Sistema de inventario |
 | 129 | Sistema de facturación |
@@ -298,8 +298,8 @@ Todas las lecciones llevan el prefijo `CJ` + número de tema (por ejemplo `CJ05_
 # 🚀 RUTA 2 – Perfil Backend Senior Java 🍵
 *(Requisito: haber completado la Ruta 1)*
 
-| Área | Tecnologías |
-|---|---|
+| Área | Tecnologías |Estado |
+|---|---|---|
 | Versiones de Java | Java 8, 11, 17, 21 |
 | Spring Core | Spring Framework, Spring Boot, Spring MVC |
 | Reactivo y APIs | Spring WebFlux, Spring GraphQL |
